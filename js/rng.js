@@ -1,5 +1,4 @@
 window.addEventListener('load', function() {
-  document.body.classList.add('bg-dark');
 });
 
 // all hail the god method!!!!!!!!!!!!!!
